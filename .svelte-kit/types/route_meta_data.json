@@ -1,0 +1,45 @@
+{
+	"/": [
+		"src/routes/+layout.js",
+		"src/routes/+layout.js"
+	],
+	"/dashboard": [
+		"src/routes/dashboard/+layout.js",
+		"src/routes/+layout.js",
+		"src/routes/dashboard/+layout.js",
+		"src/routes/+layout.js"
+	],
+	"/dashboard/assets": [
+		"src/routes/dashboard/+layout.js",
+		"src/routes/+layout.js"
+	],
+	"/dashboard/contacts": [
+		"src/routes/dashboard/+layout.js",
+		"src/routes/+layout.js"
+	],
+	"/dashboard/send": [
+		"src/routes/dashboard/+layout.js",
+		"src/routes/+layout.js"
+	],
+	"/dashboard/settings/dev": [
+		"src/routes/dashboard/+layout.js",
+		"src/routes/+layout.js"
+	],
+	"/dashboard/settings/kyc": [
+		"src/routes/dashboard/+layout.js",
+		"src/routes/+layout.js"
+	],
+	"/dashboard/transfers": [
+		"src/routes/dashboard/transfers/+page.js",
+		"src/routes/dashboard/+layout.js",
+		"src/routes/+layout.js"
+	],
+	"/login": [
+		"src/routes/login/+page.js",
+		"src/routes/+layout.js"
+	],
+	"/signup": [
+		"src/routes/signup/+page.js",
+		"src/routes/+layout.js"
+	]
+}
